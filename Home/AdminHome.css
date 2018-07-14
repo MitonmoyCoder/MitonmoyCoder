@@ -1,0 +1,77 @@
+{
+	margin: 0px;
+	padding: 0px;
+	font-family: Arial;
+	font-size: 12px;
+	
+}
+
+.headerMenu
+{
+	background-color: #00B9ED;
+	height: 58px;
+	border-bottom: 0px;
+	padding-left: auto;
+	padding-right: auto;
+	width: 100%;
+}
+
+#wrapper
+{
+	margin-right: auto;
+	margin-left: auto;
+	width: 1000px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+.searchBox
+{
+	
+	position: :absolute;
+	top: 30px;
+	margin-left: 185px;
+	margin-bottom: 40px;
+
+}
+.logo
+{
+	width: 125px;
+}
+.logo img
+{
+	width: 150px;
+	height: 38px;
+}
+
+#menu
+{
+	background-image: url(menucolor.png);	
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	height: 37px;
+	padding-top: 19px;
+	margin-right: 4%;
+
+
+}
+
+
+
+#menu a
+{
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 14px;
+	background-image: url(menucolor.png);
+	background-repeat: no-repeat;
+	padding-top: 19px;
+	padding-bottom: 22px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+#menu a:hover 
+{
+		background-image: url(menucolor_hover.png);
+}
+
